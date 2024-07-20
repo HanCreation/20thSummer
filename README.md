@@ -12,7 +12,9 @@ The poster can be found in instagram @Han.Creation
 This project kicks off with my hobby, video editing. Trying to make lyric video for a music titled "Pacarku Superstar" by Project Pop
 
 ## Micrograd
-Trying to learn micrograd which is a basically a mini automatic gradient engine which implements a backpropagation 
+Trying to learn micrograd which is a basically a mini automatic gradient engine which implements a backpropagation.
+
+Micrograd library originally created by Karpathy, et al.
 
 Edited, Noted, Coded; 
 
