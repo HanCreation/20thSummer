@@ -10,6 +10,8 @@ Trying to learn micrograd which is a basically a mini automatic gradient engine 
 
 Micrograd library originally created by Karpathy, et al.
 
+
+---
 Edited, Noted, Coded; 
 
 Anything Created by Han 2024
