@@ -3,7 +3,7 @@
 This project is collections of mini-projects and my learning notes created by Han in Summer 2024, marks my 20th Summer in my life.
 
 <div style="text-align: center;">
-    <img src="20thSummerPoster.jpg" alt="2024Poster" width="50%" height="50%">
+    <img src="20thSummerPoster.jpg" alt="2024Poster" width="30%" height="30%">
 </div>
 
 
