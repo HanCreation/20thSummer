@@ -5,7 +5,7 @@ This project is collections of mini-projects and my learning notes created by Ha
 ![2024Poster](20thSummerPoster.jpg)
 The poster can be found in instagram @Han.Creation
 
-## Micrograd
+## [Micrograd](https://github.com/HanCreation/micrograd)
 Trying to learn micrograd which is a basically a mini automatic gradient engine which implements a backpropagation.
 
 Micrograd library originally created by Karpathy, et al.
