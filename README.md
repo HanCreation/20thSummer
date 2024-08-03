@@ -10,10 +10,12 @@ This project is collections of mini-projects and my learning notes created by Ha
 The poster can be found in instagram @Han.Creation
 
 ## [Micrograd](https://github.com/HanCreation/micrograd)
-This project is about trying to learn and build micrograd from scratch which is a basically a mini automatic gradient engine which implements a backpropagation.
+This project is about trying to learn and build micrograd from scratch which is a basically a mini automatic gradient engine which implements a backpropagation. Also, implementing the micrograd engine to Neural Network (MLP)
 
 Micrograd library originally created by Karpathy, et al.
 
+## [Digit-MNIST Recognizer from Scratch](https://github.com/HanCreation/ScratchNN_DigitMNIST)
+Learn to build a simple neural network from scratch using only NumPy and Math, without relying on any high-level libraries like TensorFlow, PyTorch, or Keras. The task was to classify digits from the MNIST dataset, which contains images of handwritten digits.
 
 ---
 Edited, Noted, Coded; 
