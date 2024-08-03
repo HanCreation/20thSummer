@@ -7,7 +7,7 @@ This project is collections of mini-projects and my learning notes created by Ha
 </div>
 
 
-The poster can be found in instagram @Han.Creation
+The poster can be found on instagram: [@Han.Creation](https://www.instagram.com/han.creation/)
 
 ## [Micrograd](https://github.com/HanCreation/micrograd)
 This project is about trying to learn and build micrograd from scratch which is a basically a mini automatic gradient engine which implements a backpropagation. Also, implementing the micrograd engine to Neural Network (MLP)
