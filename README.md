@@ -15,7 +15,7 @@ This project is about trying to learn and build micrograd from scratch which is 
 Micrograd library originally created by Karpathy, et al.
 
 ## [Digit-MNIST Recognizer from Scratch](https://github.com/HanCreation/ScratchNN_DigitMNIST)
-Learn to build a simple neural network from scratch using only NumPy and Math, without relying on any high-level libraries like TensorFlow, PyTorch, or Keras. The task was to classify digits from the MNIST dataset, which contains images of handwritten digits.
+Learn to build a simple neural network from scratch using only NumPy and Math, without relying on any high-level libraries like TensorFlow, PyTorch, or Keras. The task was to classify digits from the MNIST dataset, which contains images of handwritten digits. Also, added another variant of creating the same based on torch basic library.
 
 ---
 Edited, Noted, Coded; 
