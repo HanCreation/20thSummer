@@ -17,6 +17,9 @@ Micrograd library originally created by Karpathy, et al.
 ## [Digit-MNIST Recognizer from Scratch](https://github.com/HanCreation/ScratchNN_DigitMNIST)
 Learn to build a simple neural network from scratch using only NumPy and Math, without relying on any high-level libraries like TensorFlow, PyTorch, or Keras. The task was to classify digits from the MNIST dataset, which contains images of handwritten digits. Also, added another variant of creating the same based on torch basic library.
 
+## [Makemore](https://github.com/HanCreation/makemore)
+Rebuilding Makemore, which is a project on building character-level language models to generate text one character at a time. In this reimplementation, the project explores various makemore language model architectures, including a Bigram language model (both simple and neural network-based), MLP models with and without batch normalization, a Wavenet-like structure, and a simple decoder-only transformer based on the "Attention Is All You Need" paper, basically a GPT
+
 ---
 Edited, Noted, Coded; 
 
