@@ -20,6 +20,9 @@ Learn to build a simple neural network from scratch using only NumPy and Math, w
 ## [Makemore](https://github.com/HanCreation/makemore)
 Rebuilding Makemore, which is a project on building character-level language models to generate text one character at a time. In this reimplementation, the project explores various makemore language model architectures, including a Bigram language model (both simple and neural network-based), MLP models with and without batch normalization, a Wavenet-like structure, and a simple decoder-only transformer based on the "Attention Is All You Need" paper, basically a GPT
 
+## [NeuroCraft](https://github.com/HanCreation/NeuroCraft)
+NeuroCraft is a web application that allows users to craft their own neural networks without writing any code. This project includes both a frontend built with React and a backend built with Python & Pytorch with Flask as API. This web-app is suited for deep learning beginners to explore the fundamental of neural network such as linear/dense layer, batch-normalization layer, activation function, drop out layer, train accuracy and test accuracy. Datasets provided are basic datasets which are Digit MNIST and Fashion-MNIST dataset.
+
 ---
 Edited, Noted, Coded; 
 
